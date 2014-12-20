@@ -7,19 +7,25 @@
 
  The remaining variables represents the average values for each activity and each subject.
   
- subject		
+subject		
     : int  1 1 1 1 
- activity	
+ 
+activity	
     : Factor w/ 6 levels "LAYING","SITTING",
- tBodyAcc.mean.X              
+
+tBodyAcc.mean.X              
     : num  0.222 0.261 0.279 0.277 0.289 ...
- tBodyAcc.mean.Y             
+
+tBodyAcc.mean.Y             
     : num  -0.04051 -0.00131 -0.01614 -0.01738 -0.00992 ...
- tBodyAcc.mean.Z      
+
+tBodyAcc.mean.Z      
     : num  -0.113 -0.105 -0.111 -0.111 -0.108 ...
- tBodyAcc.std.X           
+
+tBodyAcc.std.X           
     : num  -0.928 -0.977 -0.996 -0.284 0.03 ...
- tBodyAcc.std.Y
+
+tBodyAcc.std.Y
     : num  -0.8368 -0.9226 -0.9732 0.1145 -0.0319 ...
  $ tBodyAcc.std.Z               : num  -0.826 -0.94 -0.98 -0.26 -0.23 ...
  $ tGravityAcc.mean.X           : num  -0.249 0.832 0.943 0.935 0.932 ...
